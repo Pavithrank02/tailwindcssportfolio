@@ -9,7 +9,7 @@ export function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "Stripes",
+    title: "Stripe",
     description:
       "A technology company that builds economic infrastructure for the internet.",
     link: "https://stripe.com",
