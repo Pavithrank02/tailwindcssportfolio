@@ -1,7 +1,7 @@
 "use client";
 
 import { Tabs } from "./Tabs";
-//zz
+//zzss
 export function TabsDemo() {
   const tabs = [
     {
